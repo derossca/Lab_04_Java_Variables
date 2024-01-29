@@ -9,11 +9,11 @@ public class Main {
         int intDifference = 10;
         int intQuotient = 5;
         int intModulo = 13;
-        double doubleOperandA = 23;
-        double doubleOperandB = 25;
-        double doubleSum = 30;
-        double doubleProduct = 33;
-        double doubleDifference = 35;
-        double doubleQuotient = 44;
+        double doubleOperandA = 23.5;
+        double doubleOperandB = 25.5;
+        double doubleSum = 30.5;
+        double doubleProduct = 33.5;
+        double doubleDifference = 35.5;
+        double doubleQuotient = 44.5;
     }
 }
