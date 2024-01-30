@@ -15,5 +15,11 @@ public class Main {
         double doubleProduct = 33.5;
         double doubleDifference = 35.5;
         double doubleQuotient = 44.5;
+        intSum = intOperandA + intOperandB;
+        intProduct = intOperandA * intOperandB;
+        intDifference = intOperandA - intOperandB;
+        intQuotient = intOperandA / intOperandB;
+        intModulo = intOperandA % intOperandB;
+
     }
 }
