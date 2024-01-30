@@ -20,6 +20,5 @@ public class Main {
         intDifference = intOperandA - intOperandB;
         intQuotient = intOperandA / intOperandB;
         intModulo = intOperandA % intOperandB;
-
     }
 }
