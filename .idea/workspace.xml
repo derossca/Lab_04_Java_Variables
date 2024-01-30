@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="338bf8ab-980f-4755-a6bd-a36bcb8881b7" name="Changes" comment="changed declared variables to more easily see results and added output statements for int arithmetic">
+    <list default="true" id="338bf8ab-980f-4755-a6bd-a36bcb8881b7" name="Changes" comment="added comments to arithmetic assignments">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
       <updated>1706552327667</updated>
       <workItem from="1706552328745" duration="1253000" />
       <workItem from="1706619121750" duration="475000" />
-      <workItem from="1706620435377" duration="1636000" />
+      <workItem from="1706620435377" duration="2073000" />
     </task>
     <task id="LOCAL-00001" summary="Declared variables">
       <option name="closed" value="true" />
@@ -76,7 +76,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706621417693</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added arithemetic for double variables">
+      <option name="closed" value="true" />
+      <created>1706622198463</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706622198463</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added comments to arithmetic assignments">
+      <option name="closed" value="true" />
+      <created>1706622487797</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706622487797</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,7 +102,9 @@
     <MESSAGE value="Declared variables" />
     <MESSAGE value="Fixed declared variables" />
     <MESSAGE value="changed declared variables to more easily see results and added output statements for int arithmetic" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed declared variables to more easily see results and added output statements for int arithmetic" />
+    <MESSAGE value="added arithemetic for double variables" />
+    <MESSAGE value="added comments to arithmetic assignments" />
+    <option name="LAST_COMMIT_MESSAGE" value="added comments to arithmetic assignments" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

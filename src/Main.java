@@ -32,7 +32,9 @@ public class Main {
         doubleQuotient = doubleOperandA / doubleOperandB; // Assignment that uses the arithmetic operator /
         doubleModulo = doubleOperandA % doubleOperandB; // Assignment that uses the arithmetic operator %
         System.out.println("The sum using doubles of " + doubleOperandA + " " + doubleOperandB + " is " + doubleSum); // Output statement
-
-
+        System.out.println("The product using doubles of " + doubleOperandA + " " + doubleOperandB + " is " + doubleProduct); // Output statement
+        System.out.println("The difference using doubles of " + doubleOperandA + " " + doubleOperandB + " is " + doubleDifference); // Output statement
+        System.out.println("The quotient using doubles of " + doubleOperandA + " " + doubleOperandB + " is " + doubleQuotient); // Output statement
+        System.out.println("The modulo using doubles of " + doubleOperandA + " " + doubleOperandB + " is " + doubleModulo); // Output statement
     }
 }
