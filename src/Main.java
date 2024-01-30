@@ -2,8 +2,8 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        int intOperandA = 1;
-        int intOperandB = 3;
+        int intOperandA = 30;
+        int intOperandB = 10;
         int intSum = 4;
         int intProduct = 7;
         int intDifference = 10;
@@ -20,5 +20,10 @@ public class Main {
         intDifference = intOperandA - intOperandB;
         intQuotient = intOperandA / intOperandB;
         intModulo = intOperandA % intOperandB;
+        System.out.println("The sum using ints of " + intOperandA + " " + intOperandB + " is " + intSum); // Output statement
+        System.out.println("The product using ints of " + intOperandA + " " + intOperandB + " is " + intProduct); // Output statement
+        System.out.println("The difference using ints of " + intOperandA + " " + intOperandB + " is " + intDifference); // Output statement
+        System.out.println("The quotient using ints of " + intOperandA + " " + intOperandB + " is " + intQuotient); // Output statement
+        System.out.println("The modulo using ints of " + intOperandA + " " + intOperandB + " is " + intModulo); // Output statement
     }
 }
