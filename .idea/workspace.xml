@@ -4,13 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="338bf8ab-980f-4755-a6bd-a36bcb8881b7" name="Changes" comment="added comments to arithmetic assignments">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="338bf8ab-980f-4755-a6bd-a36bcb8881b7" name="Changes" comment="added output statements for double arithmetic">
+      <change afterPath="$PROJECT_DIR$/src/Declarations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Declarations.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -40,6 +49,28 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Declarations">
+    <configuration name="Declarations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Declarations" />
+      <module name="Lab_04_Java_Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lab_04_Java_Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Declarations" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,7 +81,10 @@
       <updated>1706552327667</updated>
       <workItem from="1706552328745" duration="1253000" />
       <workItem from="1706619121750" duration="475000" />
-      <workItem from="1706620435377" duration="2073000" />
+      <workItem from="1706620435377" duration="2387000" />
+      <workItem from="1706635661299" duration="108000" />
+      <workItem from="1706794042658" duration="95000" />
+      <workItem from="1706794146498" duration="2541000" />
     </task>
     <task id="LOCAL-00001" summary="Declared variables">
       <option name="closed" value="true" />
@@ -92,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706622487797</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added output statements for double arithmetic">
+      <option name="closed" value="true" />
+      <created>1706622698812</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706622698812</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,14 +146,15 @@
     <MESSAGE value="changed declared variables to more easily see results and added output statements for int arithmetic" />
     <MESSAGE value="added arithemetic for double variables" />
     <MESSAGE value="added comments to arithmetic assignments" />
-    <option name="LAST_COMMIT_MESSAGE" value="added comments to arithmetic assignments" />
+    <MESSAGE value="added output statements for double arithmetic" />
+    <option name="LAST_COMMIT_MESSAGE" value="added output statements for double arithmetic" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>37</line>
+          <line>39</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
