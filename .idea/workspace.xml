@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="338bf8ab-980f-4755-a6bd-a36bcb8881b7" name="Changes" comment="Added new java class &quot;Declarations&quot; and declared variables in it" />
+    <list default="true" id="338bf8ab-980f-4755-a6bd-a36bcb8881b7" name="Changes" comment="output variables formerly declared and initialized" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +81,7 @@
       <workItem from="1706620435377" duration="2387000" />
       <workItem from="1706635661299" duration="108000" />
       <workItem from="1706794042658" duration="95000" />
-      <workItem from="1706794146498" duration="2907000" />
+      <workItem from="1706794146498" duration="3251000" />
     </task>
     <task id="LOCAL-00001" summary="Declared variables">
       <option name="closed" value="true" />
@@ -139,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706797834114</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="output variables formerly declared and initialized">
+      <option name="closed" value="true" />
+      <created>1706798391974</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706798391974</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +161,8 @@
     <MESSAGE value="added comments to arithmetic assignments" />
     <MESSAGE value="added output statements for double arithmetic" />
     <MESSAGE value="Added new java class &quot;Declarations&quot; and declared variables in it" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new java class &quot;Declarations&quot; and declared variables in it" />
+    <MESSAGE value="output variables formerly declared and initialized" />
+    <option name="LAST_COMMIT_MESSAGE" value="output variables formerly declared and initialized" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
